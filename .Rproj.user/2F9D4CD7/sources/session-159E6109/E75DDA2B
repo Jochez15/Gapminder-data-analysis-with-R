@@ -1,0 +1,28 @@
+{
+    "id": "E75DDA2B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1664358751059.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "id": "e7d7c00d594741029c6a7dd09e3d5226",
+        "name": "plot_geom",
+        "title": "plot_geom",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3484442656290726260,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1664358751059,
+    "read_only": false,
+    "read_only_alternatives": []
+}
