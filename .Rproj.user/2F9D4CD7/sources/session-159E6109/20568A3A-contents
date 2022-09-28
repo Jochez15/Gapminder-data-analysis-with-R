@@ -2,6 +2,7 @@ Analysis of Gapminder dataset with R.
 
 Aim of project: To explore gaminder dataset and find patterns and relationships between the variables in the dataset. 
 
+Codes for the aims are titled accordingly
 1. Find the population overtime for different continents.
 2. check the relationship between lifeExp and pop.
 3. check the relationship between gdppercap and pop.
